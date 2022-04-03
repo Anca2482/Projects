@@ -1,0 +1,52 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("./resource/img/img1.webp");
+}
+
+
+.section_title {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.section_subtitle {
+    font-family: arial;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.section_text p {
+    display: inline;
+}
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+
+
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+.margin26 {
+    margin: 26px 0;
+}
